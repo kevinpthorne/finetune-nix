@@ -36,6 +36,8 @@
           beautifulsoup4
           requests
           GitPython
+          peft
+          bitsandbytes
         ]);
       in
       {
